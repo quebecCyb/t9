@@ -1,4 +1,4 @@
-# t9
+# T9
 
 It is a simple T9 Dictionary/correct spelling model that combines a lot of Machine Learning and Data Analysis algorithms. 
 The model was a homework assignment at my university.
