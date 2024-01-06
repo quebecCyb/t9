@@ -7,3 +7,5 @@ Here, you can see the implementation of:
 A Markov model (to calculate the probability of corrected spelling and compare them using context).
 Levenshtein Damerau distance is used to compare probabilities of different text changes.
 Additionally, other simpler NLP algorithms are employed.
+
+![Application Screenshot](screenshots/test1.png)
